@@ -1,6 +1,5 @@
 node_modules/
 dist/
-.env
 *.log
 .DS_Store
 devlog/
@@ -14,3 +13,4 @@ devlog/
 # Test-generated artifacts
 tests/.tmp-*/
 .claude/
+config.bat
